@@ -1,0 +1,11 @@
+.room-details {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.room-details__list {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}

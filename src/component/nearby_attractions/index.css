@@ -1,0 +1,10 @@
+.attractions {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.attractions__link {
+	font-size: 16px;
+	color: #000;
+}
